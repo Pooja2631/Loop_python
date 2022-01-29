@@ -1,0 +1,14 @@
+<doctype html>
+    <html>
+    <head><title>Pooja Gupta></title></head>
+    <body style="background-color:pink;">
+    <center><h1>GET IN TOUCH</h1>
+    <center><h4 style="background-color:blue;">leave your massege and we will back to you  shortly</h4></center>
+    <form>
+    <center>your name:<input type="text"> email adress:<input type="text"></center><br><br><br>
+    <center>phone no.:<input type="text"> website URL:<input type="text"></center><br><br><br>
+    <center>massege:<input type="text"></center><br><br><br>
+    <center><button type="submit"  value="submit">submit form</button></center>
+    </form>
+    </body>
+    </html>
